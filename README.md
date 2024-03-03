@@ -6,9 +6,9 @@ I'm Jhon Louise Tan, a 4th year BSIS student at Mapua Malayan Colleges Mindanao.
 Email: jhonlouisestan@gmail.com
 
 ## Languages:
-English
-Filipino
-Bisaya
+- English
+- Tagalog
+- Bisaya
 
 ## Certificates:
 - Introduction to User Experience Design
