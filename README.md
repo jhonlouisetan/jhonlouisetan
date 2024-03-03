@@ -1,16 +1,16 @@
-## Hello there! Welcome to my Portfolio!
+# Hello there! Welcome to my Portfolio!
 
 I'm Jhon Louise Tan, a 4th year BSIS student at Mapua Malayan Colleges Mindanao. 
 
-# Contact Details
+## Contact Details
 Email: jhonlouisestan@gmail.com
 
-# Languages:
+## Languages:
 English
 Filipino
 Bisaya
 
-# Certificates:
+## Certificates:
 - Introduction to User Experience Design
 - Java Object-Oriented Programming
 - Introduction to Finance: The Basics
@@ -22,7 +22,7 @@ Bisaya
 - Project Management Beyond Planning and Control
 - Work Smarter with Microsoft Excel
 
-# Projects Done:
+## Projects Done:
 - Metric System Converter
 - Employee Information Management System
 - Livestock Monitoring System
@@ -30,7 +30,7 @@ Bisaya
 - Banana Crop Monitoring System
 
 
-# Academic Projects:
+## Academic Projects:
 - Online Learning Experience of MCM Students
 - Simple Smart Coin Counter and Detector through Arduino and Proteus
 - Visualizing Mental Health: A Power BI Approach to Suicide Data Analysis
