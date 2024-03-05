@@ -24,15 +24,17 @@ Email: jhonlouisestan@gmail.com
 
 
 ## Projects Done:
-- Metric System Converter
-- Employee Information Management System
-- Livestock Monitoring System
-- POS Website (Prototype)
-- Livestock Excel Database (Private) 
-- Banana Crop Monitoring System
+- Banana Crop Monitoring System (2024)
+- Sales Report Excel Project (2024)
+- Livestock Monitoring System (2023)
+- Livestock Excel Database (2023) (Private)
+- POS Website (2023) (Prototype) 
+- Metric System Converter (2022)
+- Employee Information Management System (2022)
 
 
-## Academic Projects:
+
+## Research Papers:
 - Online Learning Experience of MCM Students
 - Simple Smart Coin Counter and Detector through Arduino and Proteus
 - Visualizing Mental Health: A Power BI Approach to Suicide Data Analysis
