@@ -35,10 +35,12 @@ Email: jhonlouisestan@gmail.com
 
 
 ## Research Papers:
-- Online Learning Experience of MCM Students
-- Simple Smart Coin Counter and Detector through Arduino and Proteus
-- Visualizing Mental Health: A Power BI Approach to Suicide Data Analysis
-- Assessing Attitudes Towards Adopting an Innovative Crop Monitoring System at Bartulaba-Domolok Banana Farm
+- Assessing Attitudes Towards Adopting an Innovative Crop Monitoring System at Bartulaba-Domolok Banana Farm (2024)
+- Visualizing Mental Health: A Power BI Approach to Suicide Data Analysis (2023)
+- Simple Smart Coin Counter and Detector through Arduino and Proteus (2023)
+- Online Learning Experience of MCM Students (2021)
+
+
 
 
 
