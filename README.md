@@ -3,7 +3,7 @@
 I'm Jhon Louise Tan, a 4th year BSIS student at Mapua Malayan Colleges Mindanao. I aspire to work in the field of information technology and business data analytics.
 
 ## Contact Details
-Email: jhonlouisestan@gmail.com
+Email: jlTan@mcm.edu.ph
 
 ## Languages:
 - English
