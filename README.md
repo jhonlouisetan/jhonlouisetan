@@ -10,7 +10,7 @@ Email: jlTan@mcm.edu.ph
 - Tagalog
 - Bisaya
 
-## Certificates:
+## [Certificates](https://github.com/jhonlouisetan/Certificates):
 - Work Smarter with Microsoft Excel (2024)
 - Project Management Beyond Planning and Control (2024)
 - Project Management Life Cycle and Project Planning (2024)
@@ -25,8 +25,8 @@ Email: jlTan@mcm.edu.ph
 
 ## Projects Done:
 - Banana Crop Monitoring System (2024)
-- Sales Report Excel Project (2024)
-- Livestock Monitoring System (2023)
+- [Sales Report Excel Project](https://github.com/jhonlouisetan/Sales-Report-Excel-Project) (2024)
+- [Livestock Monitoring System](https://github.com/jhonlouisetan/Livestock-Monitoring-System) (2023)
 - Livestock Excel Database (2023) (Private)
 - POS Website (2023) (Prototype) 
 - Metric System Converter (2022)
@@ -36,9 +36,9 @@ Email: jlTan@mcm.edu.ph
 
 ## Research Papers:
 - Assessing Attitudes Towards Adopting an Innovative Crop Monitoring System at Bartulaba-Domolok Banana Farm (2024)
-- Visualizing Mental Health: A Power BI Approach to Suicide Data Analysis (2023)
-- Simple Smart Coin Counter and Detector through Arduino and Proteus (2023)
-- Online Learning Experience of MCM Students (2021)
+- [Visualizing Mental Health: A Power BI Approach to Suicide Data Analysis](https://github.com/jhonlouisetan/Mental-Health-BI-Project) (2023)
+- [Simple Smart Coin Counter and Detector through Arduino and Proteus](https://github.com/jhonlouisetan/Coin-Detector-Project) (2023)
+- [Online Learning Experience of MCM Students](https://github.com/jhonlouisetan/Mini-Research) (2021)
 
 
 
