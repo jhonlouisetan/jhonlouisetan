@@ -12,6 +12,7 @@ Email: jlTan@mcm.edu.ph
 
 ## [Certificates](https://github.com/jhonlouisetan/Certificates):
 - Work Smarter with Microsoft Excel (2024)
+- Work Smarter with Microsoft Word (2024)
 - Information Systems Auditing, Controls, and Assurance (2023)
 - Innovation Management (2023)
 - Project Management Beyond Planning and Control (2024)
