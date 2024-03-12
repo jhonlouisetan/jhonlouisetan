@@ -11,14 +11,16 @@ Email: jlTan@mcm.edu.ph
 - Bisaya
 
 ## [Certificates](https://github.com/jhonlouisetan/Certificates):
+- Microsoft 365 Fundamentals (2024)
 - Work Smarter with Microsoft Excel (2024)
 - Work Smarter with Microsoft Word (2024)
+- Work Smarter with Microsoft PowerPoint
 - Information Systems Auditing, Controls, and Assurance (2023)
 - Innovation Management (2023)
+- Introduction to Finance: The Basics (2022)
 - Project Management Beyond Planning and Control (2024)
 - Project Management Life Cycle and Project Planning (2024)
 - Business Process Modelling (2023)
-- Introduction to Finance: The Basics (2022)
 - Civic Welfare Training Service (2023)
 - Java Object-Oriented Programming (2022)
 - Introduction to User Experience Design (2021)
