@@ -31,7 +31,8 @@ Email: jlTan@mcm.edu.ph
 - [Sales Report Excel Project](https://github.com/jhonlouisetan/Sales-Report-Excel-Project) (2024)
 - [Livestock Monitoring System](https://github.com/jhonlouisetan/Livestock-Monitoring-System) (2023)
 - Livestock Excel Database (2023) (Private)
-- POS Website (2023) (Prototype) 
+- POS Website (2023) (Prototype)
+- Integrated Hotel Management System (2024) (Project Proposal)
 - Metric System Converter (2022)
 - Employee Information Management System (2022)
 
