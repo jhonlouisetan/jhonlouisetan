@@ -14,7 +14,7 @@ Email: jlTan@mcm.edu.ph
 - Microsoft 365 Fundamentals (2024)
 - Work Smarter with Microsoft Excel (2024)
 - Work Smarter with Microsoft Word (2024)
-- Work Smarter with Microsoft PowerPoint
+- Work Smarter with Microsoft PowerPoint (2024)
 - Information Systems Auditing, Controls, and Assurance (2023)
 - Innovation Management (2023)
 - Introduction to Finance: The Basics (2022)
