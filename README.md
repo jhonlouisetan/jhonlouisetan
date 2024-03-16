@@ -1,6 +1,6 @@
 # Hello there! Welcome to my Portfolio!
 
-I am a passionate and dedicated Information Systems student. My curiosity drives me to explore various aspects of information technology, and I thrive on challenges that allow me to learn and grow.
+I am a passionate and dedicated 4th year Information Systems student at Mapua Malayan Colleges Mindanao. My curiosity drives me to explore various aspects of information technology, and I thrive on challenges that allow me to learn and grow.
 
 ## Contact Details
 Email: jlTan@mcm.edu.ph
