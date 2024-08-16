@@ -1,17 +1,18 @@
 # Hello there! Welcome to my Portfolio!
 
-I am a passionate and dedicated 4th year Information Systems student at Mapua Malayan Colleges Mindanao. My curiosity drives me to explore various aspects of information technology, and I thrive on challenges that allow me to learn and grow.
+I am a passionate and dedicated Information Systems graduate at Mapua Malayan Colleges Mindanao. My curiosity drives me to explore various aspects of information technology, and I thrive on challenges that allow me to learn and grow.
 
 ## Contact Details
-Email: jlTan@mcm.edu.ph
+Email: jhonlouisestan@gmail.com
 
-## Languages:
-- English
-- Tagalog
-- Bisaya
+## Work Experience
+- Desktop Support Engineer Intern at Awesome CX by Transcom
+- IT Intern at 8S Century Properties
 
 ## [Certificates](https://github.com/jhonlouisetan/Certificates):
+- Technical Support Fundamentals (2024)
 - Microsoft 365 Fundamentals (2024)
+- TOEIC Certified Professional Proficiency in English (2023)
 - Work Smarter with Microsoft Excel (2024)
 - Work Smarter with Microsoft Word (2024)
 - Work Smarter with Microsoft PowerPoint (2024)
@@ -35,6 +36,11 @@ Email: jlTan@mcm.edu.ph
 - Integrated Hotel Management System (2024) (Project Proposal)
 - Metric System Converter (2022)
 - Employee Information Management System (2022)
+
+## Languages:
+- English
+- Tagalog
+- Bisaya
 
 
 
