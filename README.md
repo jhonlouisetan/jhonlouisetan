@@ -10,6 +10,7 @@ Email: jhonlouisestan@gmail.com
 - IT Intern at 8S Century Properties
 
 ## [Certificates](https://github.com/jhonlouisetan/Certificates):
+- The Bits and Bytes of Computer Networking (2024)
 - Technical Support Fundamentals (2024)
 - Microsoft 365 Fundamentals (2024)
 - TOEIC Certified Professional Proficiency in English (2023)
