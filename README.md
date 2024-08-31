@@ -10,6 +10,7 @@ Email: jhonlouisestan@gmail.com
 - IT Intern at 8S Century Properties
 
 ## [Certificates](https://github.com/jhonlouisetan/Certificates):
+- System Administration and IT Infrastructure Services (2024)
 - Operation Systems and You: Becoming a Power User (2024)
 - The Bits and Bytes of Computer Networking (2024)
 - Technical Support Fundamentals (2024)
