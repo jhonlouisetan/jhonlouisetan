@@ -16,6 +16,7 @@ Email: jhonlouisestan@gmail.com
   - Operation Systems and You: Becoming a Power User (2024)
   - The Bits and Bytes of Computer Networking (2024)
   - Technical Support Fundamentals (2024)
+- Introduction to Google Workspace Administration (2024)
 - Microsoft 365 Fundamentals (2024)
   - Work Smarter with Microsoft Excel (2024)
   - Work Smarter with Microsoft Word (2024)
@@ -27,9 +28,9 @@ Email: jhonlouisestan@gmail.com
 - Project Management Beyond Planning and Control (2024)
 - Project Management Life Cycle and Project Planning (2024)
 - Business Process Modelling (2023)
-- Civic Welfare Training Service (2023)
 - Java Object-Oriented Programming (2022)
 - Introduction to User Experience Design (2021)
+- Civic Welfare Training Service (2023)
 
 ## Projects Done:
 - [Banana Crop Monitoring System](https://github.com/jhonlouisetan/banana-CMS/tree/main) (2024)
