@@ -1,6 +1,6 @@
 # Hello there! Welcome to my Portfolio!
 
-I am a passionate and dedicated Information Systems graduate at Mapua Malayan Colleges Mindanao. My curiosity drives me to explore various aspects of information technology, and I thrive on challenges that allow me to learn and grow.
+I am a passionate and dedicated graduate with a Bachelor of Science in Information Systems from Mapua Malayan Colleges Mindanao. My curiosity drives me to explore various aspects of information technology, and I thrive on challenges that allow me to learn and grow.
 
 ## Contact Details
 Email: jhonlouisestan@gmail.com
@@ -10,7 +10,7 @@ Email: jhonlouisestan@gmail.com
 - IT Intern at 8S Century Properties
 
 ## [Certificates](https://github.com/jhonlouisetan/Certificates):
-- Google IT Support Professional Certificate(2024)
+- Google IT Support Professional Certificate (2024)
   - IT Security: Defense Against the Digital Dark Arts (2024)
   - System Administration and IT Infrastructure Services (2024)
   - Operation Systems and You: Becoming a Power User (2024)
