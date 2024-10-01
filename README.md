@@ -5,10 +5,6 @@ I am a passionate and dedicated graduate with a Bachelor of Science in Informati
 ## Contact Details
 Email: jhonlouisestan@gmail.com
 
-## Work Experience
-- Desktop Support Engineer Intern at Awesome CX by Transcom
-- IT Intern at 8S Century Properties
-
 ## [Certificates](https://github.com/jhonlouisetan/Certificates):
 - Google IT Support Professional Certificate (2024)
   - IT Security: Defense Against the Digital Dark Arts (2024)
